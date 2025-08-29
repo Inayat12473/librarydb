@@ -1,0 +1,4 @@
+# Ignore some frontend files for GitHub language stats
+book-frontend/package-lock.json linguist-vendored
+book-frontend/.idea/* linguist-vendored
+book-frontend/public/* linguist-vendored
